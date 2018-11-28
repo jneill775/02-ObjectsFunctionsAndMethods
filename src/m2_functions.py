@@ -78,6 +78,7 @@ def penFunc(color, thicc):
     deceasedunitedstatespresidentjameskpolk.pen = rg.Pen(color,5)
     kaiservonwilhelmIIIkingofprussiaandthelastgermankaiser.forward(100)
     deceasedunitedstatespresidentjameskpolk.backward(100)
+
     window.close_on_mouse_click()
 
 
